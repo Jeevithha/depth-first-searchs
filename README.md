@@ -1,4 +1,4 @@
-<h1> ## ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
+<h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 <h3>Name: jeevitha S</h3>
 <h3>Register Number:212222100016     </h3>
 <H3>Aim:</H3>
@@ -53,8 +53,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>Find its Successors Or neighbors and Check whether the node is visited or not</li>
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
-<h3>
- ## PROGRAM:
+<h3>PROGRAM:
  ```
 from collections import deque
 from collections import defaultdict
